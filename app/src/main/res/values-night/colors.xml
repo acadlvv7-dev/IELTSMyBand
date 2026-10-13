@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Theme Colors - Dark Mode -->
+    <color name="bg_main">#0F172A</color>
+    <color name="screen_bg">#0F172A</color>
+    <color name="card_bg">#1E293B</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#CBD5E1</color>
+    <color name="text_tertiary">#94A3B8</color>
+    <color name="divider_color">#334155</color>
+    <color name="stroke_color">#334155</color>
+
+    <color name="primary_blue">#3B82F6</color>
+    <color name="primary_dark_blue">#2563EB</color>
+
+    <!-- Distinct Card Backgrounds for Dark Mode -->
+    <color name="card_listening_bg">#1E3A8A</color>
+    <color name="card_reading_bg">#065F46</color>
+    <color name="card_writing_bg">#581C87</color>
+    <color name="card_speaking_bg">#7C2D12</color>
+
+    <color name="dialog_bg">#0F172A</color>
+    <color name="bottom_sheet_bg">#1E293B</color>
+</resources>
